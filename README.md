@@ -92,9 +92,8 @@ If you found this project useful:
 * 🔁 Share with others  
 * 🤝 Connect with me
 
----
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 
 **Ankit Gupta**  
 - AI/ML Engineer | Data Science | GenAI Enthusiast
