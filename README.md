@@ -14,6 +14,7 @@ A modern Machine Learning dashboard built using **Streamlit** and a trained **Ar
 
 ![App Screenshot](img_1.png)
 ![App Screenshot](img_2.png)
+![App Screenshot](img_3.png)
 
 ---
 
@@ -51,8 +52,6 @@ The application allows users to:
 * NumPy  
 * Scikit-learn  
 * Matplotlib  
-
----
 
 ---
 
