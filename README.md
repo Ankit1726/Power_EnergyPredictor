@@ -4,9 +4,9 @@ A modern Machine Learning dashboard built using **Streamlit** and a trained **Ar
 
 ---
 
-### 🚀 Live Demo
+### 🚀 Live Previw
 
-- 👉 https://your-app-link.streamlit.app
+- 👉 https://powerenergypredictor-znpu2swqkdfqgjaqkfw2wd.streamlit.app
 
 ---
 
