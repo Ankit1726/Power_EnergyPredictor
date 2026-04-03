@@ -84,17 +84,17 @@ The app provides simple and human-friendly visualizations:
 
 ---
 
-## 👨‍💻 Author
-
-**Ankit Gupta**  
-- AI/ML Engineer | Data Science | GenAI Enthusiast
-- 
----
-
 ### ⭐ Show Your Support
 
 If you found this project useful:
 
 * ⭐ Star this repository  
 * 🔁 Share with others  
-* 🤝 Connect with me  
+* 🤝 Connect with me
+
+---
+
+## 👨‍💻 Author
+
+**Ankit Gupta**  
+- AI/ML Engineer | Data Science | GenAI Enthusiast
