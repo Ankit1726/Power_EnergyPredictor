@@ -1,4 +1,4 @@
-# ⚡ Power Plant Energy Predictor (ANN)
+# ⚡ Power Plant Energy Predictor
 
 A modern Machine Learning dashboard built using **Streamlit** and a trained **Artificial Neural Network (PyTorch)** model to predict power plant energy output with clean visualization and comparison insights.
 
