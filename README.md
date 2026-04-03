@@ -12,7 +12,8 @@ A modern Machine Learning dashboard built using **Streamlit** and a trained **Ar
 
 ## 📸 Project Preview
 
-![App Screenshot](images/dashboard.png)
+![App Screenshot](img_1.png)
+![App Screenshot](img_2.png)
 
 ---
 
